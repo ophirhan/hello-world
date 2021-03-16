@@ -1,2 +1,2 @@
 # hello-world
-My goals
+Goals I wish to achieve while attending the OPEN SOURCE WORKSHOP.
